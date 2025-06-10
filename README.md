@@ -13,7 +13,7 @@ A modern and responsive Password Generator built using **React**, **Tailwind CSS
 -  Adjust password length using a slider.
 -  Real-time password preview based on selected options.
 -  Clean, responsive UI built with **Tailwind CSS**.
-- ⚙ Blazing fast development with **Vite**.
+-  Blazing fast development with **Vite**.
 
 ## Screenshot
 
